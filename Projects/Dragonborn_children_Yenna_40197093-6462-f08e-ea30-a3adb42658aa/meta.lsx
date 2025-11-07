@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="40197093-6462-f08e-ea30-a3adb42658aa"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_children_Yenna"/>
+            <attribute id="UUID" type="LSString" value="2ef0a37c-f82c-0a46-ef6a-2b243572495e"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
